@@ -1,0 +1,6 @@
+# Flows
+
+@"./frankfurter-BasicCoverageFlow.aontu"
+@"./frankfurter-BasicCurrencyFlow.aontu"
+@"./frankfurter-BasicProviderFlow.aontu"
+@"./frankfurter-BasicRateFlow.aontu"
